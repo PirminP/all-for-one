@@ -24,8 +24,8 @@
   | 4   | Query showing total amount of information in `product_name` column |
   | 5   | Query that displays data from `product` table between fourth and thirteenth record |
   | 6   | Query that displays `product_name` and `id` from `products` table in alphabetical order of names |
-  | 7   |  |
-  | 8   |  |
+  | 7   | Query showing the last 5 records in the `products` table |
+  | 8   | Query that returns 3 columns, containing the names 'A', 'Trybe' and 'eh' and values of sum `5 + 6`, string `'de'` and sum of `2 + 8`, respectively|
   | 9   |  |
   | 10  |  |
   | 11  |  |
