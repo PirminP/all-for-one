@@ -21,7 +21,7 @@
   | 1   | Query that only displays product names |
   | 2   | Query that displays all product information |
   | 3   | Query that displays primary key of product table |
-  | 4   |  |
+  | 4   | Query showing total amount of information in `product_name` column |
   | 5   |  |
   | 6   |  |
   | 7   |  |
