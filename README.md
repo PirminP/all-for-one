@@ -22,7 +22,7 @@
   | 2   | Query that displays all product information |
   | 3   | Query that displays primary key of product table |
   | 4   | Query showing total amount of information in `product_name` column |
-  | 5   |  |
+  | 5   | Query that displays data from product table between fourth and thirteenth record |
   | 6   |  |
   | 7   |  |
   | 8   |  |
