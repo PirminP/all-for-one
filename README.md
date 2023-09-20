@@ -19,8 +19,8 @@
   | Task     | Description |
   | ----------- | ----------- |
   | 1   | Query that only displays product names |
-  | 2   |  |
-  | 3   |  |
+  | 2   | Query that displays all product information |
+  | 3   | Query that displays primary key of product table |
   | 4   |  |
   | 5   |  |
   | 6   |  |
