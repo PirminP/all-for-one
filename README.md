@@ -5,7 +5,14 @@
 * Designed by using MySQL & Docker
 
 ### Instructions
-* To run:
+* To run the repository locally, clone the project and use the following commands to initialize Docker:
+  
+  ```
+  docker-compose up -d // start application with docker
+  docker attach all_for_one
+  npm install // install dependencies
+  docker-compose down // stop application
+  ```
 
   | Task     | Description |
   | ----------- | ----------- |
