@@ -18,7 +18,7 @@
 
   | Task     | Description |
   | ----------- | ----------- |
-  | 1   |  |
+  | 1   | Query that only displays product names |
   | 2   |  |
   | 3   |  |
   | 4   |  |
