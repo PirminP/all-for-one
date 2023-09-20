@@ -27,7 +27,7 @@
   | 7   | Query showing the last 5 records in the `products` table |
   | 8   | Query that returns 3 columns, containing the names 'A', 'Trybe' and 'eh' and values of sum `5 + 6`, string `'de'` and sum of `2 + 8`, respectively|
   | 9   | Query showing all non-null values in `notes` column of `purchase_orders` table |
-  | 10  |  |
+  | 10  | Query that displays all the data in `purchase_orders` table, sorted in descending order of `created_by`, with greater than or equal to `3` |
   | 11  |  |
   | 12  |  |
   | 13  |  |
