@@ -29,7 +29,7 @@
   | 9   | Query showing all non-null values in `notes` column of `purchase_orders` table |
   | 10  | Query that displays all the data in `purchase_orders` table, sorted in descending order of `created_by`, with greater than or equal to `3` |
   | 11  | Query that shows `notes` column of `purchase_orders` table, where 'Purchase generated based on Order #' contains values between 30 and 39 |
-  | 12  |  |
+  | 12  | Query showing `submitted_date` of `purchase_orders` table on April 26, 2006 |
   | 13  |  |
   | 14  |  |
   | 15  |  |
