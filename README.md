@@ -33,7 +33,7 @@
   | 13  | Query that displays `supplier_id` equivalent to 1 or 3, referring to the `purchase_orders` table |
   | 14  | Query that displays `supplier_id` between 1 and 3, referring to the `purchase_orders` table |
   | 15  | Query that displays only the hour of all records in `submitted_date` column of `purchase_orders` table |
-  | 16  |  |
+  | 16  | Query that shows `submitted_date` column of `purchase_orders` table between `2006-01-26` and `2006-03-31` |
   | 17  |  |
   | 18  |  |
   | 19  |  |
