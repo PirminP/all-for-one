@@ -36,7 +36,7 @@
   | 16  | Query that shows `submitted_date` column of `purchase_orders` table between `2006-01-26` and `2006-03-31` |
   | 17  | Query that shows records of `id` and `supplier_id` columns of `purchase_orders` table where `supplier_id` is equivalent to 1, 3, 5 or 7 |
   | 18  | Query that displays all records in `purchase_orders` table, where `supplier_id` equals 3 and `status_id` equals 2 |
-  | 19  |  |
+  | 19  | Query that shows number of orders placed in `orders` by `employee_id` equal to 5 or 6, and which were sent via `shipper_id` column equal to 2 |
   | 20  |  |
   | 21  |  |
   | 22  |  |
