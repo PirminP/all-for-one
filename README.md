@@ -42,6 +42,6 @@
   | 22  | Query that updates the data in `discount` column of `order_details` table to 15 |
   | 23  | Query that updates the data in `discount` column of `order_details` table to 30 where `unit_price` less than 10.0000 |
   | 24  | Query that updates the data in `discount` column of `order_details` table to 45, where `unit_price` greater than 10.0000 and `id` between 30 and 40 |
-  | 25  | Query that deletes all data from the `order_details` table where `unit_price` is less than 10.0000 |
-  | 26  |  |
-  | 27  |  |
+  | 25  | Query that deletes all data from the `order_details` table where `unit_price` less than 10.0000 |
+  | 26  | Query that deletes all data from the `order_details` table where `unit_price` greater than 10.0000 |
+  | 27  | Delete all data in the `order_details` table |
