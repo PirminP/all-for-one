@@ -40,8 +40,8 @@
   | 20  | Query to add more than one record to `order_details` table |
   | 21  | Query to add more than one record to `order_details` table |
   | 22  | Query that updates the data in `discount` column of `order_details` table to 15 |
-  | 23  | Query that updates the data in `discount` column of `order_details` table to 30 when `unit_price` less than 10.0000 |
-  | 24  | Query that updates the data in `discount` column of `order_details` table to 45, when `unit_price` greater than 10.0000 and `id` between 30 and 40 |
-  | 25  |  |
+  | 23  | Query that updates the data in `discount` column of `order_details` table to 30 where `unit_price` less than 10.0000 |
+  | 24  | Query that updates the data in `discount` column of `order_details` table to 45, where `unit_price` greater than 10.0000 and `id` between 30 and 40 |
+  | 25  | Query that deletes all data from the `order_details` table where `unit_price` is less than 10.0000 |
   | 26  |  |
   | 27  |  |
