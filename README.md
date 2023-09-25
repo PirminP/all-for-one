@@ -37,9 +37,9 @@
   | 17  | Query that shows records of `id` and `supplier_id` columns of `purchase_orders` table where `supplier_id` is equivalent to 1, 3, 5 or 7 |
   | 18  | Query that displays all records in `purchase_orders` table, where `supplier_id` equals 3 and `status_id` equals 2 |
   | 19  | Query that shows number of orders placed in `orders` by `employee_id` equal to 5 or 6, and which were sent via `shipper_id` column equal to 2 |
-  | 20  | Query to add more than one record to the `order_details` table |
-  | 21  |  |
-  | 22  |  |
+  | 20  | Query to add more than one record to `order_details` table |
+  | 21  | Query to add more than one record to `order_details` table |
+  | 22  | Query that updates the data in `discount` column of `order_details` table to 15 |
   | 23  |  |
   | 24  |  |
   | 25  |  |
